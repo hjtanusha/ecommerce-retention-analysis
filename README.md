@@ -12,7 +12,7 @@ Business Objectives:
 • Evaluate average basket size to measure purchase depth
 • Generate actionable insights for retention and engagement
 
-Tools & Technologies
+Tools & Technologies:
 • Excel - Data cleaning, VLOOKUP, pivot tables
 • PostgreSQL - Joins, CTEs, aggregations
 • Power BI - DAX, data modeling, dashboards
@@ -38,7 +38,7 @@ Customer Behavior Analysis:
 • Repeat customers contribute consistently across peak hours.
 
 Dashboard Structure
-1. Executive Overview  : KPIs and retention split
+1. Executive Overview  - KPIs and retention split
 2. Retention Analysis - Department and product-level reorders
 3. Customer Behavior - Time-based ordering patterns 
  
