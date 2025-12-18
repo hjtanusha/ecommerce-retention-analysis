@@ -13,10 +13,10 @@ Business Objectives:
 • Generate actionable insights for retention and engagement
 
 Tools & Technologies
-• Excel – Data cleaning, VLOOKUP, pivot tables
-• PostgreSQL – Joins, CTEs, aggregations
-• Power BI – DAX, data modeling, dashboards
-• GitHub – Project documentation
+• Excel - Data cleaning, VLOOKUP, pivot tables
+• PostgreSQL - Joins, CTEs, aggregations
+• Power BI - DAX, data modeling, dashboards
+• GitHub - Project documentation
 
 Dataset:
 Instacart Market Basket Analysis dataset with multiple related tables:
